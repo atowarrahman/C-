@@ -1,0 +1,15 @@
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.csprojAssemblyReference.cache
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task_1.Form1.resources
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.csproj.GenerateResource.cache
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.AssemblyInfoInputs.cache
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.AssemblyInfo.cs
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.csproj.CoreCompileInputs.cache
+E:\OOP2\MID\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.exe
+E:\OOP2\MID\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.deps.json
+E:\OOP2\MID\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.runtimeconfig.json
+E:\OOP2\MID\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.runtimeconfig.dev.json
+E:\OOP2\MID\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.dll
+E:\OOP2\MID\Task-1\Task-1\bin\Debug\netcoreapp3.1\Task-1.pdb
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.dll
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.pdb
+E:\OOP2\MID\Task-1\Task-1\obj\Debug\netcoreapp3.1\Task-1.genruntimeconfig.cache
