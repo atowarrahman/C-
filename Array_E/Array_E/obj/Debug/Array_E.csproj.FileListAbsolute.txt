@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Array_E\Array_E\bin\Debug\Array_E.exe.config
+C:\Users\User\source\repos\Array_E\Array_E\bin\Debug\Array_E.exe
+C:\Users\User\source\repos\Array_E\Array_E\bin\Debug\Array_E.pdb
+C:\Users\User\source\repos\Array_E\Array_E\obj\Debug\Array_E.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Array_E\Array_E\obj\Debug\Array_E.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Array_E\Array_E\obj\Debug\Array_E.exe
+C:\Users\User\source\repos\Array_E\Array_E\obj\Debug\Array_E.pdb

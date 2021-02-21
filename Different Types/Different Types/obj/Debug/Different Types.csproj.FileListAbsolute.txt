@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Different Types\Different Types\bin\Debug\Different Types.exe.config
+C:\Users\User\source\repos\Different Types\Different Types\bin\Debug\Different Types.exe
+C:\Users\User\source\repos\Different Types\Different Types\bin\Debug\Different Types.pdb
+C:\Users\User\source\repos\Different Types\Different Types\obj\Debug\Different Types.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Different Types\Different Types\obj\Debug\Different Types.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Different Types\Different Types\obj\Debug\Different Types.exe
+C:\Users\User\source\repos\Different Types\Different Types\obj\Debug\Different Types.pdb

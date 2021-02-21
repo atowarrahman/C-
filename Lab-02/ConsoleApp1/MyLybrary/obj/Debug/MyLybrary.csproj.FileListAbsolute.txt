@@ -1,0 +1,1 @@
+E:\OOP2\MID\Lab-02\ConsoleApp1\MyLybrary\obj\Debug\MyLybrary.csproj.CoreCompileInputs.cache

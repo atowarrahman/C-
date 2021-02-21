@@ -1,0 +1,7 @@
+E:\OOP2\MID\Lab-02\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\OOP2\MID\Lab-02\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\OOP2\MID\Lab-02\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\OOP2\MID\Lab-02\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\OOP2\MID\Lab-02\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\OOP2\MID\Lab-02\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\OOP2\MID\Lab-02\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

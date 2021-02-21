@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\parameter_Modifier\parameter_Modifier\bin\Debug\parameter_Modifier.exe.config
+C:\Users\User\source\repos\parameter_Modifier\parameter_Modifier\bin\Debug\parameter_Modifier.exe
+C:\Users\User\source\repos\parameter_Modifier\parameter_Modifier\bin\Debug\parameter_Modifier.pdb
+C:\Users\User\source\repos\parameter_Modifier\parameter_Modifier\obj\Debug\parameter_Modifier.csprojAssemblyReference.cache
+C:\Users\User\source\repos\parameter_Modifier\parameter_Modifier\obj\Debug\parameter_Modifier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\parameter_Modifier\parameter_Modifier\obj\Debug\parameter_Modifier.exe
+C:\Users\User\source\repos\parameter_Modifier\parameter_Modifier\obj\Debug\parameter_Modifier.pdb

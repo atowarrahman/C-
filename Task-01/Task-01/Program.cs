@@ -21,17 +21,17 @@ namespace Task_01
             float c = System.Convert.ToSingle(System.Console.ReadLine());
 
 
-            System.Console.Write("Give Youe Name :");
-            string x = System.Console.ReadLine();
-            System.Console.WriteLine(x);
-            string id;
-            System.Console.Write("Give Youe ID :");
-            id = System.Console.ReadLine();
-            System.Console.WriteLine(id);
-            float cgpa;
-            System.Console.Write("Give Youe CGPA :");
-            cgpa =System.Convert.ToSingle( System.Console.ReadLine());
-            System.Console.WriteLine(cgpa);
+           // System.Console.Write("Give Youe Name :");
+            //string x = System.Console.ReadLine();
+          //  System.Console.WriteLine(x);
+            //string id;
+           // System.Console.Write("Give Youe ID :");
+           // id = System.Console.ReadLine();
+           // System.Console.WriteLine(id);
+           // float cgpa;
+           // System.Console.Write("Give Youe CGPA :");
+           // cgpa =System.Convert.ToSingle( System.Console.ReadLine());
+          //  System.Console.WriteLine(cgpa);
         }
     }
 }
