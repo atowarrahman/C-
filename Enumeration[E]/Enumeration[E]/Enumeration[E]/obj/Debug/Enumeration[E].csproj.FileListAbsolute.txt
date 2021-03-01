@@ -1,0 +1,6 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Enumeration[E]\Enumeration[E]\bin\Debug\Enumeration[E].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Enumeration[E]\Enumeration[E]\bin\Debug\Enumeration[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Enumeration[E]\Enumeration[E]\bin\Debug\Enumeration[E].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Enumeration[E]\Enumeration[E]\obj\Debug\Enumeration[E].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Enumeration[E]\Enumeration[E]\obj\Debug\Enumeration[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Enumeration[E]\Enumeration[E]\obj\Debug\Enumeration[E].pdb

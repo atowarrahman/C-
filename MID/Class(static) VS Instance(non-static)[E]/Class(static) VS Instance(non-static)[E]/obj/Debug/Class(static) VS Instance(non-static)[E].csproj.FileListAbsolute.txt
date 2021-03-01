@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Class(static) VS Instance(non-static)[E]\Class(static) VS Instance(non-static)[E]\bin\Debug\Class(static) VS Instance(non-static)[E].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Class(static) VS Instance(non-static)[E]\Class(static) VS Instance(non-static)[E]\bin\Debug\Class(static) VS Instance(non-static)[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Class(static) VS Instance(non-static)[E]\Class(static) VS Instance(non-static)[E]\bin\Debug\Class(static) VS Instance(non-static)[E].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Class(static) VS Instance(non-static)[E]\Class(static) VS Instance(non-static)[E]\obj\Debug\Class(static) VS Instance(non-static)[E].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Class(static) VS Instance(non-static)[E]\Class(static) VS Instance(non-static)[E]\obj\Debug\Class(static) VS Instance(non-static)[E].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Class(static) VS Instance(non-static)[E]\Class(static) VS Instance(non-static)[E]\obj\Debug\Class(static) VS Instance(non-static)[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Class(static) VS Instance(non-static)[E]\Class(static) VS Instance(non-static)[E]\obj\Debug\Class(static) VS Instance(non-static)[E].pdb

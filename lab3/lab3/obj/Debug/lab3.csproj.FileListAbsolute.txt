@@ -5,3 +5,10 @@ C:\Users\User\source\repos\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cach
 C:\Users\User\source\repos\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\lab3\lab3\obj\Debug\lab3.exe
 C:\Users\User\source\repos\lab3\lab3\obj\Debug\lab3.pdb
+E:\OOP2\MID\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+E:\OOP2\MID\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\OOP2\MID\lab3\lab3\obj\Debug\lab3.exe
+E:\OOP2\MID\lab3\lab3\obj\Debug\lab3.pdb
+E:\OOP2\MID\lab3\lab3\bin\Debug\lab3.exe.config
+E:\OOP2\MID\lab3\lab3\bin\Debug\lab3.exe
+E:\OOP2\MID\lab3\lab3\bin\Debug\lab3.pdb

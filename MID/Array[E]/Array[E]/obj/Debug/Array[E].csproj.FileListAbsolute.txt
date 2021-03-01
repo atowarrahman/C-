@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Array[E]\Array[E]\bin\Debug\Array[E].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Array[E]\Array[E]\bin\Debug\Array[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Array[E]\Array[E]\bin\Debug\Array[E].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Array[E]\Array[E]\obj\Debug\Array[E].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Array[E]\Array[E]\obj\Debug\Array[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Array[E]\Array[E]\obj\Debug\Array[E].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Array[E]\Array[E]\obj\Debug\Array[E].csprojAssemblyReference.cache

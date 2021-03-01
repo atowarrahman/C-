@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Different Types[E]\Different Types[E]\bin\Debug\Different Types[E].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Different Types[E]\Different Types[E]\bin\Debug\Different Types[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Different Types[E]\Different Types[E]\bin\Debug\Different Types[E].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Different Types[E]\Different Types[E]\obj\Debug\Different Types[E].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Different Types[E]\Different Types[E]\obj\Debug\Different Types[E].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Different Types[E]\Different Types[E]\obj\Debug\Different Types[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Different Types[E]\Different Types[E]\obj\Debug\Different Types[E].pdb

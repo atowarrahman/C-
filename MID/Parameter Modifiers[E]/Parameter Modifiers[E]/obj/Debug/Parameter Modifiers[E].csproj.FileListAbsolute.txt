@@ -1,0 +1,7 @@
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Parameter Modifiers[E]\Parameter Modifiers[E]\bin\Debug\Parameter Modifiers[E].exe.config
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Parameter Modifiers[E]\Parameter Modifiers[E]\bin\Debug\Parameter Modifiers[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Parameter Modifiers[E]\Parameter Modifiers[E]\bin\Debug\Parameter Modifiers[E].pdb
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Parameter Modifiers[E]\Parameter Modifiers[E]\obj\Debug\Parameter Modifiers[E].csprojAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Parameter Modifiers[E]\Parameter Modifiers[E]\obj\Debug\Parameter Modifiers[E].csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Parameter Modifiers[E]\Parameter Modifiers[E]\obj\Debug\Parameter Modifiers[E].exe
+C:\Users\MSI\Documents\Visual Studio 2019\Projects\Spring 2020-21\Parameter Modifiers[E]\Parameter Modifiers[E]\obj\Debug\Parameter Modifiers[E].pdb
