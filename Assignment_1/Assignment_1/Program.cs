@@ -10,6 +10,7 @@ namespace Assignment_1
     {
         static void Main(string[] args)
         {
+            Bank ourBank = new Bank("Developers Bank", 5);
         }
     }
 }
