@@ -67,7 +67,7 @@ namespace Assignment_1
         }
         public void Transfer(double amount, Account receiver)
         {
-            if (this.Withdraw(amount)) ;
+            if (this.Withdraw(amount))
             {
                 receiver.Deposit(amount);
             }
@@ -88,4 +88,4 @@ namespace Assignment_1
         }
     }
 }
-}
+
