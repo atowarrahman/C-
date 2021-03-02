@@ -9,13 +9,12 @@ namespace Assignment_1
     class Bank
     {
 
-        private Account[] myBank;
+        private Account[] myBank = new Account[1000];
         private string bankName;
-        public Bank(string name, int size)
+        public Bank(string name)
         {
             this.bankName = name;
-            this.myBank = new Account[size];
-            //  Console.WriteLine("Bank Name:" + name + "  Size:" + size);
+           
         }
 
         public string Name
@@ -66,11 +65,61 @@ namespace Assignment_1
 
 
         }
+     
 
-
-        public void Transaction(int transactionType, int amount)
+        public void Transaction(int transactionType, params object[] perameters)
         {
-            Console.WriteLine();
+            switch (transactionType)
+            {
+                case 1:
+                    Console.WriteLine("You have choose withdraw!!");
+                    double wAmount = (double)perameters[1];
+                    for (int i = 0; i < myBank.Length; i++)
+                    {
+                        if (myBank[i] == perameters[0])
+                        {
+                            myBank[i].Withdraw(wAmount);
+                        }
+                    }
+                    break;
+                case 2:
+                    Console.WriteLine("You have choose deposit!!");
+                    double dAmount = (double)perameters[1];
+                    for (int i = 0; i < myBank.Length; i++)
+                    {
+                        if (myBank[i] == perameters[0])
+                        {
+                            myBank[i].Deposit(dAmount);
+                        }
+                    }
+                    break;
+                case 3:
+                    Console.WriteLine("You have choose Transfer");
+                    Account sender = new Account();
+                    double tAmount = (double)perameters[2];
+                    Console.Write(tAmount + "\n");
+                    for (int i = 0; i < myBank.Length; i++)
+                    {
+                        if (myBank[i] == perameters[0])
+                        {
+                            sender = myBank[i];
+                            break;
+                        }
+                    }
+                    for (int i = 0; i < myBank.Length; i++)
+                    {
+                        if (myBank[i] == perameters[1])
+                        {
+                            Console.Write(sender.Balance);
+                            sender.Transfer(myBank[i], tAmount);
+                            break;
+
+                           
+                        }
+                    }
+                    break;
+
+            }
         }
 
         public void PrintAccountDetails()
@@ -80,4 +129,3 @@ namespace Assignment_1
         }
     }
 }
-

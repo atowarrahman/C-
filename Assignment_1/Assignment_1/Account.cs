@@ -11,9 +11,15 @@ namespace Assignment_1
         private int accountNumber;
         private string accountName;
         private double balance;
-        private Address address;//Association(HAS-A Relation)
+        private Address address;
 
-        public Account(int accountNumber, string accountName, double balance, Address address)
+        public Account()
+        {
+            int i = 10001;
+            this.accountNumber = i;
+            i++;
+        }
+        public Account(string accountName, double balance, int accountNumber, Address address)
         {
             this.accountNumber = accountNumber;
             this.accountName = accountName;
@@ -36,7 +42,6 @@ namespace Assignment_1
             set { this.balance = value; }
             get { return this.balance; }
         }
-
         public Address Address
         {
             set { this.address = value; }
@@ -65,7 +70,7 @@ namespace Assignment_1
                 return false;
             }
         }
-        public void Transfer(double amount, Account receiver)
+        public void Transfer(Account receiver, double amount)
         {
             if (this.Withdraw(amount))
             {
@@ -82,10 +87,9 @@ namespace Assignment_1
 
         public void ShowAccountInformation()
         {
-            //Console.WriteLine("Account No:"+this.accountNumber+"\nAccount Name:"+this.accountName+"\nBalance:"+this.balance);
+         
             Console.WriteLine("Account No:{0}\nAccount Name:{1}\nBalance:{2}", this.accountNumber, this.accountName, this.balance);
             this.address.GetAddress();
         }
     }
 }
-
