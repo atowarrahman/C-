@@ -8,6 +8,7 @@ namespace Assignment_2
 {
     class Open
     {
+
         protected string name, dob, address;
         protected double startbCus;
         protected int accnum;
@@ -44,6 +45,12 @@ namespace Assignment_2
             StartbCus = startbCus;
             Accnum = accnum + GetHashCode();
         }
+        public void info()
+        {
+            Console.WriteLine("Your name: " + Name + "\n"
+                + "Date of birth: " + Dob + "\n"
+                + "Address: " + Address + "\n"
+                + "Balance: " + StartbCus);
+        }
     }
 }
-
